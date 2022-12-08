@@ -13,9 +13,9 @@ const tabInfo = document.querySelector(".tab_info");
 let errs = ["/", "$"];
 
 const src = [
-  "/images/illustration-features-tab-1.svg",
-  "/images/illustration-features-tab-2.svg",
-  "/images/illustration-features-tab-3.svg",
+  "./images/illustration-features-tab-1.svg",
+  "./images/illustration-features-tab-2.svg",
+  "./images/illustration-features-tab-3.svg",
 ];
 
 const heads = [
